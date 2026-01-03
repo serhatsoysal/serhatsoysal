@@ -4,7 +4,7 @@
 
 # Hi, I'm Serhat 👋
 
-I am a **Software Architect** dedicated to engineering high-performance distributed systems and orchestrating enterprise-level AI ecosystems. My expertise lies in building resilient, mission-critical architectures that harmonize complex business logic with cutting-edge technological scalability.
+I am a **Software Engineer** dedicated to engineering high-performance distributed systems and orchestrating enterprise-level AI ecosystems. My expertise lies in building resilient, mission-critical architectures that harmonize complex business logic with cutting-edge technological scalability.
 
 ### 🏗️ Architectural Vision & Strategy
 * **System Resilience & Stability:** Implementing advanced patterns like **Bulkheads**, **Circuit Breakers**, and **SAGA** for distributed transactions to ensure high availability in high-traffic environments.
