@@ -22,6 +22,11 @@ I am a **Software Architect** dedicated to engineering high-performance distribu
 * ⚙️ **Technical Stack Leadership:** Deep specialization in the **Java/Spring Ecosystem** and **Python** for advanced AI/ML implementations.
 * 🎓 **Systems Engineering:** MIS background with a strategic focus on automation, architectural efficiency, and data-driven decision-making.
 
+### 💡 Architectural Impact & Metrics
+* **Scalability:** Optimized distributed systems to handle high-concurrency workloads with **99.9% uptime**.
+* **Performance:** Enhanced system responsiveness by implementing efficient **Caching (Redis)** and **Asynchronous Messaging**.
+* **Resilience:** Built zero-single-point-of-failure backends using **Resilience4j** and **Cloud-Native orchestration**.
+
 ### 💻 Advanced Tech Stack & Ecosystem
 | Layer | Technologies & Frameworks |
 | :--- | :--- |
@@ -33,6 +38,11 @@ I am a **Software Architect** dedicated to engineering high-performance distribu
 | **Messaging & Streaming** | Apache Kafka, RabbitMQ, ActiveMQ, Amazon EventBridge |
 | **Security & Identity** | OAuth2, OpenID Connect, JWT, Spring Security, AWS IAM, HashiCorp Vault |
 | **Observability & QA** | Prometheus, Grafana, ELK Stack, SonarQube, JUnit 5, Mockito, Testcontainers, BDD |
+
+---
+
+### 📊 Language Distribution
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serhatsoysal&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
