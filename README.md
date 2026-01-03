@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="serhatsoysalcard.jpeg" width="100%" alt="Serhat Soysal Banner">
+</p>
+
 # Hi, I'm Serhat 👋
 
 I am a **Software Architect** dedicated to engineering high-performance distributed systems and orchestrating enterprise-level AI ecosystems. My expertise lies in building resilient, mission-critical architectures that harmonize complex business logic with cutting-edge technological scalability.
@@ -34,6 +38,6 @@ I am a **Software Architect** dedicated to engineering high-performance distribu
 
 ### 📫 Reach me at:
 📧 **Email:** [serhatsoysalx@gmail.com](mailto:serhatsoysalx@gmail.com)  
-🔗 **LinkedIn:** [soysalserhatx](https://linkedin.com/in/soysalserhatx)  
+🔗 **LinkedIn:** [soysalserhat](https://www.linkedin.com/in/soysalserhat)  
 🌐 **Portfolio:** [serhatsoysal.com](https://www.serhatsoysal.com)  
 📍 **Location:** Dubai, UAE
