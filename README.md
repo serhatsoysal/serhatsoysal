@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="serhatsoysalcard.jpeg" width="100%" alt="Serhat Soysal Banner">
+  <img src="linkedinBanner.png" width="100%" alt="Serhat Soysal Banner">
 </p>
 
 # Hi, I'm Serhat 👋
